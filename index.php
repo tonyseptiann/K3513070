@@ -1,5 +1,4 @@
 //Tambah baris 1 oleh K3513070
-//Tambah baris 2 oleh K3513070
 <?php
 
 /*
